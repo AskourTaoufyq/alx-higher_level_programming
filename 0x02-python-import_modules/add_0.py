@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 def add(a, b):
     """My addition function
+
     Args:
         a: first integer
         b: second integer
@@ -9,3 +10,6 @@ def add(a, b):
         The return value. a + b
     """
     return (a + b)
+
+guillaume@ubuntu:~/0x02$ ./0-add.py
+1 + 2 = 3
